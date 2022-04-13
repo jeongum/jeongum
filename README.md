@@ -25,14 +25,14 @@
 | [Docong](https://github.com/jeongum/docong) | [2022.04] SSAFY 특화 PJT 3위  | [2022.04] SSAFY 우수 교육생 선정 |  |
 | [Glanner](https://github.com/jeongum/glanner) | [2022.02] SSAFY 공통 PJT 3위 |  |  |
 | [Numva](https://github.com/jeongum/numva) | [2022.01] 예비창업패키지 우수 수료 | [2021.06] 세종대학교 창업아이디어 경진대회 대상 |
-| [연다](https://github.com/jeongum/yeonda) | [2020.12]세종대학교 SW,AI 메이커톤 대상 |  |  |
+| [연다](https://github.com/jeongum/yeonda) | [2020.12] 세종대학교 SW,AI 메이커톤 대상 |  |  |
 | [CANWEMEET](https://github.com/jeongum/canwemeet_v2) | [2020.12] 세종대학교 창의설계경진대회 장려 |  |  |
 
 ## 👔 Work 👔
 ### [Spigen, Inc](https://www.spigen.com/)
-📍Irvine, California  
-🔖Jr.SoftWare Developer, IT team (인턴)  
-📆2020.11 ~ 2021.07  
+📍 Irvine, California  
+🔖 Jr.SoftWare Developer, IT team (인턴)  
+📆 2020.11 ~ 2021.07  
 ### [JY 법률사무소](https://jy-law.kr/test/)
-🔖외주개발자 - 자가진단 워드프레스 플러그인 개발  
-📆2021.01 ~ 2021.03   
+🔖 외주개발자 - 자가진단 워드프레스 플러그인 개발  
+📆 2021.01 ~ 2021.03   
