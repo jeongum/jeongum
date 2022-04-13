@@ -28,7 +28,7 @@
 | [연다](https://github.com/jeongum/yeonda) | [2020.12]세종대학교 SW,AI 메이커톤 대상 |  |  |
 | [CANWEMEET](https://github.com/jeongum/canwemeet_v2) | [2020.12] 세종대학교 창의설계경진대회 장려 |  |  |
 
-## 👔Work
+## 👔 Work 👔
 ### [Spigen, Inc](https://www.spigen.com/)
 📍Irvine, California  
 🔖Jr.SoftWare Developer, IT team (인턴)  
