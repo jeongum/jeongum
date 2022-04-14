@@ -1,6 +1,20 @@
-# About ❓ 
+<div align="center">
+  
+  <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wjddmadl97"/>
+  
+  ### 👋 JEONG UM 👋 
+  
+  ---
+ 
+  <img src="https://img.shields.io/badge/-TechBlog-FF5722?style=flat-square&logo=Blogger&logoColor=white&link=https://doteloper.tistory.com/"/> <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/>
+  
+  🎓 세종대학교 소프트웨어학과 졸업  
+  🔎 삼성 청년 SW 아카데미 (SSAFY) 6기  
+ 
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjddmadl97)](https://solved.ac/wjddmadl97)
+  <br>
+ 
+</div>
 
 ## 🛠 SKILL 🛠
 ### BACKEND
