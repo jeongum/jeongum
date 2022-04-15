@@ -5,7 +5,7 @@
 ## 👋 JEONG UM 👋 
   
 
-  <a href="https://doteloper.tistory.com/"><img src="https://img.shields.io/badge/-TechBlog-FF5722?style=flat-square&logo=Blogger&logoColor=white&"/></a> <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/>
+  <a href="https://velog.io/@dot2__"><img src="https://img.shields.io/badge/-TechBlog-20C997?style=flat-square&logo=Velog&logoColor=white&"/></a> <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/>
   
   🎓 세종대학교 소프트웨어학과 졸업  
   🔎 삼성 청년 SW 아카데미 (SSAFY) 6기  
