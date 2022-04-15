@@ -2,9 +2,9 @@
   
   <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wjddmadl97"/>
   
-  ### 👋 JEONG UM 👋 
+## 👋 JEONG UM 👋 
   
- ---
+
   <a href="https://doteloper.tistory.com/"><img src="https://img.shields.io/badge/-TechBlog-FF5722?style=flat-square&logo=Blogger&logoColor=white&"/></a> <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/>
   
   🎓 세종대학교 소프트웨어학과 졸업  
